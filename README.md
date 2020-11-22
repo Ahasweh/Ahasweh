@@ -2,8 +2,8 @@
 #### I'm Technical Product Manager and Data Science Enthusiest 
 #### 🌱I'm actively learning new skills in the Data Science Field. 
 #### <pre>  ⚡  Python for Data Science: Numpy, Pandas </pre>
-####   ⚡  Machine Learning
-####   ⚡  Statistics
+#### <pre>  ⚡  Machine Learning
+#### <pre>  ⚡  Statistics
 
 <!--
 **Ahasweh/Ahasweh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
