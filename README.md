@@ -17,6 +17,7 @@
 ##### :heavy_check_mark:	Communication, product management, agile project management, business analysis, prioritization, Problem solving, process improvement, and CX.
 
 
+
 <!--
 **Ahasweh/Ahasweh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
