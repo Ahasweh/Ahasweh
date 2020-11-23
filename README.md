@@ -1,13 +1,7 @@
 ### Hi there 👋
 #### I'm Technical Product Manager and Data Science Enthusiest 
 ##### 🌱  I'm actively learning new skills in the Data Science Field. 
-
-##### ⚡  Python for Data Science: Numpy, Pandas
-##### ⚡  Machine Learning :deciduous_tree:
-##### ⚡  Statistics
-##### :pray:
 #### ⚡ DATABASE: 
-
 ##### :heavy_check_mark:	MS SQL Server, Oracle 10g, MySQL.
 
 #### ⚡ DATA ANALYSIS: 
