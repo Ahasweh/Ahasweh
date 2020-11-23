@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Technical Product Manager and Data Science Enthusiest 
 #### 🌱I'm actively learning new skills in the Data Science Field. 
-#### <pre>  ⚡  Python for Data Science: Numpy, Pandas </pre>
+#### <pre>  ⚡  Python for Data Science: Numpy, Pandas
 #### <pre>  ⚡  Machine Learning
 #### <pre>  ⚡  Statistics
 
