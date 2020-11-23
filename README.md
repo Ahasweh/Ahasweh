@@ -14,7 +14,7 @@
 
 #### ⚡ LEADERSHIP & MANAGEMENT:
 
-##### :heavy_check_mark:	Communication, product management, agile project management, business analysis, prioritization, Problem solving, process improvement, and CX.
+##### :heavy_check_mark:	Communication, product management, agile project management, business analysis, prioritization, problem solving, and CX.
 
 
 
