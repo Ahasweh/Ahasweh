@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Technical Product Manager and Data Science Enthusiest 
+#### My Name is Ahmad. I'm a Technical Product Manager and Data Science Enthusiest. 
 #### 🌱  I'm actively learning new skills in the Data Science Field. 
 #### ⚡ DATABASE: 
 ##### :heavy_check_mark:	MS SQL Server, Oracle 10g, MySQL.
