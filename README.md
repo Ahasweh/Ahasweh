@@ -10,7 +10,7 @@
 
 #### ⚡ PROGRAMMING &TOOLS:
 
-##### :heavy_check_mark:	Crystal Reports, C#, T-SQL, PL/SQL, Python, HTML5, JavaScript, XML, JSON, Rest APIs.
+##### :heavy_check_mark:	Python, HTML5, JavaScript, Djnago and DRF, XML, JSON, Rest APIs, Crystal Reports, C#, T-SQL, PL/SQL, 
 
 #### ⚡ LEADERSHIP & MANAGEMENT:
 
